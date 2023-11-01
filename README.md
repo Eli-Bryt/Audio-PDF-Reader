@@ -14,8 +14,7 @@ After this you can run the script with the command, **python main.py** OR you co
 as PyCharm or VsCode.
 
 ### Images of Runnig Script
-![Screenshot](Screenshot(1).png)
 
-![Screenshot](Screenshot(2).png)
-
-![Screenshot](Screenshot(3).png)
+![Screenshot (1)](https://github.com/Eli-Bryt/Audio-PDF-Reader/assets/149264753/f1c6dc88-ba43-4bc9-b412-d73958ab8dbb)
+![Screenshot (2)](https://github.com/Eli-Bryt/Audio-PDF-Reader/assets/149264753/94d1b2ec-50c2-45c0-a37f-5364663dbe7c)
+![Screenshot (3)](https://github.com/Eli-Bryt/Audio-PDF-Reader/assets/149264753/930ebedb-362e-4393-8c3b-bc740e1ce4a9)
