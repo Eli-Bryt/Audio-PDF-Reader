@@ -12,3 +12,10 @@ Use pip to install pyttsx3 and PyPDF2 like this:
 2. **pip install PyPDF2**
 After this you can run the script with the command, **python main.py** OR you could use an IDE such
 as PyCharm or VsCode.
+
+### Images of Runnig Script
+![Screenshot](Screenshot(1).png)
+
+![Screenshot](Screenshot(2).png)
+
+![Screenshot](Screenshot(3).png)
